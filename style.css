@@ -1,0 +1,17 @@
+body {
+    background: #1d2630;
+}
+
+* {
+    color: #fff;
+}
+
+span {
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
+
+#Update {
+    display: none;
+}
